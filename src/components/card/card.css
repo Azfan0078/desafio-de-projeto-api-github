@@ -1,0 +1,17 @@
+.card {
+    border: 1px solid gray;
+    height: 40%;
+    width: 22%;
+    margin: 10px;
+    padding-left: 3px;
+}
+
+.card>h2,
+.card>p {
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.card a {
+    text-decoration: none;
+}
